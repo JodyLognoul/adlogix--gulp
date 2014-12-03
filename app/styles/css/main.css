@@ -1,0 +1,20 @@
+body {
+  background-color: #bada55;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333; }
+  body .hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px; }
+    body .hero-unit h1 {
+      font-size: 60px;
+      line-height: 1;
+      letter-spacing: -1px; }
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4uc2FzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGtCQUFrQjtFQUNsQixhQUFhO0VBQ2IsT0FBTztFQUFULEtBQUs7SUFHRCxRQUFRO0lBQ1IsT0FBTztJQUNQLFdBQVc7SUFDWCxhQUFhO0lBQ2IsYUFBYTtJQUNiLGtCQUFrQjtJQUNsQixlQUFlO0lBQ2YsU0FBUztJQUFiLEtBQUssV0FBVztNQUVWLFdBQVc7TUFDWCxhQUFhO01BQ2IsZ0JBQWdCIiwiZmlsZSI6Im1haW4uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keVxuICBiYWNrZ3JvdW5kLWNvbG9yOiAjYmFkYTU1XG4gIGZvbnQtZmFtaWx5OiBcIkhlbHZldGljYSBOZXVlXCIsIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWZcbiAgY29sb3I6ICMzMzNcbiAgXG4gIC5oZXJvLXVuaXQgXG4gICAgbWFyZ2luOiA1MHB4IGF1dG8gMCBhdXRvXG4gICAgd2lkdGg6IDMwMHB4XG4gICAgZm9udC1zaXplOiAxOHB4XG4gICAgZm9udC13ZWlnaHQ6IDIwMFxuICAgIGxpbmUtaGVpZ2h0OiAzMHB4XG4gICAgYmFja2dyb3VuZC1jb2xvcjogI2VlZVxuICAgIGJvcmRlci1yYWRpdXM6IDZweFxuICAgIHBhZGRpbmc6IDYwcHhcbiAgICBoMSBcbiAgICAgIGZvbnQtc2l6ZTogNjBweFxuICAgICAgbGluZS1oZWlnaHQ6IDFcbiAgICAgIGxldHRlci1zcGFjaW5nOiAtMXB4Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9 */
